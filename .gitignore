@@ -1,0 +1,8 @@
+*.png
+*/__pycache__
+*/.idea/
+*.pkl
+uploads
+models
+.env
+
